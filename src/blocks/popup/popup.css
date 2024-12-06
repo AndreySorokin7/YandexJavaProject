@@ -21,3 +21,8 @@
   right: 0;
   z-index: 10;
 }
+
+.popup__error_visible {
+  color: red;
+  font-size: 12px;
+}
