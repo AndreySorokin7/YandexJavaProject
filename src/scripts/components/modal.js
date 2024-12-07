@@ -13,7 +13,6 @@ export function addCloseButtonListeners() {
   });
 }
 
-// Функция для закрытия попапа по клику на сам попап
 export function addPopupClickListeners() {
   document.querySelectorAll('.popup').forEach(popup => {
     popup.addEventListener('click', evt => {
@@ -22,7 +21,6 @@ export function addPopupClickListeners() {
   });
 }
 
-// Функция для закрытия попапа по нажатию клавиши Escape
 export function addEscapeKeyListener() {
   document.addEventListener('keydown', evt => {
     if (evt.key === 'Escape') {

@@ -12,7 +12,7 @@ module.exports = {
     filename: 'main.js',
     publicPath: '',
   },
-  mode: 'production', // Установите production, чтобы исправить предупреждение
+  mode: 'production',
   module: {
     rules: [
       {
