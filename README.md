@@ -21,3 +21,4 @@
 
 - **Студент:** Сорокин Андрей
 - **Группа:** 3822Б1ПР2
+- **Ссылка:** https://andreysorokin7.github.io/YandexJavaProject/
